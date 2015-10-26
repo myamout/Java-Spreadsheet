@@ -1,2 +1,2 @@
 # Java-Spreadsheet
-Console Based Java Spreadsheet Program
+This is a spreadsheet application written in Java. A ten by ten spreadsheet is printed out by the console and allows a user to add, remove, and sort cells in ascending or descending order by row or column. Program contains extensive error checking as well as an extensive help guide for the user. The program will run until the user enters the quit command. The program follows basic object oriented principles in it's design and is very functional. An abstract cell class is used to create all of the different kind of cells. 
